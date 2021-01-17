@@ -5,6 +5,8 @@ A fleshed out game of life in Haskell.
 	
 This was the final compulsory assignment I had in the course functional programming (INF122) at the University of Bergen. 
 
+The program can be found in the repository with the title "Game_Of_Life_Haskell". One will need ghci installed to run the program. 
+
 If you do not know what The Game of Life is, here is a quick summary of the rules: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life#Rules
 
 The assignment itself can be found as a pdf file in the repository. For a full overview of all the details, I suggest checking it out. 
